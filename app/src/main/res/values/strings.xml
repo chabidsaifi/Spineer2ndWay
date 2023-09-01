@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Spineer2ndWay</string>
+
+    <string-array name="country">
+        <item>Select Place</item>
+        <item>INDIA</item>
+        <item>CANADA</item>
+        <item>UNITED STATES</item>
+        <item>GERMANY</item>
+        <item>JAPAN</item>
+
+    </string-array>
+
+    <string-array name="values">
+        <item>Please Select</item>
+        <item>WELCOME TO INDIA</item>
+        <item>WELCOME TO CANADA</item>
+        <item>WELCOME TO UNITED STATES</item>
+        <item>WELCOME TO GERMANY</item>
+        <item>WELCOME TO JAPAN</item>
+    </string-array>
+</resources>
